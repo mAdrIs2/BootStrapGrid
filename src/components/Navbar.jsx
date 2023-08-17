@@ -6,7 +6,7 @@ const Navbar = () => {
           BootStrap Grid
         </a>
         <button
-          className="navbar-toggler text-light"
+          className="navbar-toggler bg-light"
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarSupportedContent"
